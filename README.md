@@ -1,2 +1,2 @@
 # CSS-tips
-Bienvenue sur CSS Tips! Ce dépôt est une collection de conseils, astuces et bonnes pratiques pour améliorer vos compétences en CSS. Que vous soyez débutant ou développeur expérimenté, vous trouverez ici des techniques utiles pour créer des interfaces web élégantes et performantes.
+Welcome to CSS Tips! This repository is a collection of tips, tricks and best practices to improve your CSS skills. Whether you're a beginner or an experienced developer, here you'll find useful techniques for creating elegant, high-performance web interfaces.
